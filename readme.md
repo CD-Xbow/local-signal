@@ -15,10 +15,13 @@ Eventually I managed to get this build working, one which is hopefully, easy to 
 
 ## Setup Instructions
 
-A. This distribution works locally on a PC with NPM installed by running the command
+### A. Local
+This distribution works locally on a PC with NPM installed by running the command
 
  ### npx http-server dist
 
-I will try other small, local servers and see if it works
+I will try other small, local servers and see if it works and document them.
 
-B, This distribution works fine on proper web servers as is - see https://teamxbow.web.fc2.com/site/music/signal/index.html
+### B. Webserver  
+This distribution works fine on proper web servers as is, just unzip it. 
+see https://teamxbow.web.fc2.com/site/music/signal/index.html
