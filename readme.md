@@ -8,10 +8,10 @@ Pain and suffering. Much pain and suffering.
 Eventually I managed to get this build, hopefully easy to deploy.
 
 ## Features
--**Cross-Platform Compatibility:** Ensure accessibility across various devices and operating systems.
--**Simple User Interface:** Focus on an intuitive, non-complicated user interface for ease of use.
--**MIDI Compatibility:** Support for MIDI format to facilitate a wide range of music production needs.
--**Easy to install:** I hope so.
+- **Cross-Platform Compatibility:** Ensure accessibility across various devices and operating systems.
+- **Simple User Interface:** Focus on an intuitive, non-complicated user interface for ease of use.
+- **MIDI Compatibility:** Support for MIDI format to facilitate a wide range of music production needs.
+- **Easy to install:** I hope so.
 
 ## Setup Instructions
 
