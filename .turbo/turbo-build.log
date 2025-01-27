@@ -1,0 +1,82 @@
+
+> signal@0.0.1 build
+> webpack --config webpack.prod.js
+
+Failed to load C:\WebDev\2024\Music\signal-main\.env.
+[sentry-webpack-plugin] Warning: No release name provided. Will not inject release. Please set the `release.name` option to identify your release.
+[sentry-webpack-plugin] Warning: No release name provided. Will not create release. Please set the `release.name` option to identify your release.
+[sentry-webpack-plugin] Warning: No auth token provided. Will not upload source maps. Please set the `authToken` option. You can find information on how to generate a Sentry auth token here: https://docs.sentry.io/api/auth/
+[sentry-webpack-plugin] Info: Sending telemetry data on issues and performance to Sentry. To disable telemetry, set `options.telemetry` to `false`.
+assets by path [1m[32m*.js[39m[22m 2.49 MiB
+  assets by info 2.47 MiB [1m[32m[immutable][39m[22m 11 assets
+  + 2 assets
+assets by path [1m[32m*.png[39m[22m 98.6 KiB
+  asset [1m[32micon-maskable.png[39m[22m 49 KiB [1m[32m[emitted][39m[22m [from: public/icon-maskable.png] [1m[32m[copied][39m[22m
+  asset [1m[32micon-384x384.png[39m[22m 20.4 KiB [1m[32m[emitted][39m[22m [from: public/icon-384x384.png] [1m[32m[copied][39m[22m
+  + 3 assets
+assets by path [1m[32m*.html[39m[22m 3.82 KiB
+  asset [1m[32medit.html[39m[22m 1.38 KiB [1m[32m[emitted][39m[22m
+  asset [1m[32mcommunity.html[39m[22m 1.33 KiB [1m[32m[emitted][39m[22m
+  asset [1m[32mauth.html[39m[22m 1.11 KiB [1m[32m[emitted][39m[22m
+assets by path [1m[32m*.svg[39m[22m 1.22 KiB
+  asset [1m[32mfavicon.svg[39m[22m 862 bytes [1m[32m[emitted][39m[22m [from: public/favicon.svg] [1m[32m[copied][39m[22m
+  asset [1m[32mcursor-pencil.svg[39m[22m 392 bytes [1m[32m[emitted][39m[22m [from: public/cursor-pencil.svg] [1m[32m[copied][39m[22m
+asset [1m[32mmanifest.webmanifest[39m[22m 943 bytes [1m[32m[emitted][39m[22m [from: public/manifest.webmanifest] [1m[32m[copied][39m[22m
+Entrypoint [1mbrowserMain[39m[22m [1m[33m[big][39m[22m 2 MiB (10.7 KiB) = [1m[32m422-95023db500b52612fc53.js[39m[22m 592 KiB [1m[32m582-ce84da23e942cd3c2f9e.js[39m[22m 359 KiB [1m[32m578-f571884b6a034ab596ad.js[39m[22m 733 KiB [1m[32m595-01c60004084a6156a403.js[39m[22m 47.2 KiB [1m[32mbrowserMain-b5cd51f4e525874b1628.js[39m[22m 314 KiB 1 auxiliary asset
+Entrypoint [1mbrowserAuth[39m[22m [1m[33m[big][39m[22m 818 KiB = [1m[32m422-95023db500b52612fc53.js[39m[22m 592 KiB [1m[32m248-612a7e20fc0c650d3f04.js[39m[22m 9 KiB [1m[32m45-9cd21ebb01b770cd6e7d.js[39m[22m 164 KiB [1m[32m595-01c60004084a6156a403.js[39m[22m 47.2 KiB [1m[32mbrowserAuth-147312787299b7470f13.js[39m[22m 5.54 KiB
+Entrypoint [1mbrowserCommunity[39m[22m [1m[33m[big][39m[22m 1.22 MiB (10.7 KiB) = [1m[32m422-95023db500b52612fc53.js[39m[22m 592 KiB [1m[32m582-ce84da23e942cd3c2f9e.js[39m[22m 359 KiB [1m[32m248-612a7e20fc0c650d3f04.js[39m[22m 9 KiB [1m[32m978-f88c0706fb84da7963ed.js[39m[22m 233 KiB [1m[32mbrowserCommunity-95242802232c9aa449c5.js[39m[22m 60 KiB 1 auxiliary asset
+orphan modules 756 KiB [1m[33m[orphan][39m[22m 111 modules
+runtime modules 16.8 KiB 33 modules
+modules by path [1m../[39m[22m 5.77 MiB (javascript) 31.4 KiB (asset)
+  modules by path [1m../node_modules/[39m[22m 5.38 MiB (javascript) 31.4 KiB (asset) 588 modules
+  modules by path [1m../packages/[39m[22m 396 KiB
+    modules by path [1m../packages/community/dist/[39m[22m 368 KiB 54 modules
+    modules by path [1m../packages/player/dist/*.js[39m[22m 12 KiB 8 modules
+    modules by path [1m../packages/dialog-hooks/dist/*.js[39m[22m 3.95 KiB
+      [1m../packages/dialog-hooks/dist/index.js[39m[22m 128 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      + 4 modules
+    modules by path [1m../packages/api/dist/*.js[39m[22m 10.7 KiB
+      [1m../packages/api/dist/index.js[39m[22m 448 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      + 4 modules
+    [1m../packages/firebaseui-web-react/dist/index.js[39m[22m 1.44 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+modules by path [1m./src/[39m[22m 1.66 MiB 318 modules
+
+[1mLOG from GenerateSW[39m[22m
+<i> [1m[32mThe service worker at service-worker.js will precache[39m[22m
+<i> [1m[32m        28 URLs, totaling 2.72 MB.[39m[22m
+
+[1m[33mWARNING[39m[22m in [1masset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  browserMain-b5cd51f4e525874b1628.js (314 KiB)
+  422-95023db500b52612fc53.js (592 KiB)
+  582-ce84da23e942cd3c2f9e.js (359 KiB)
+  578-f571884b6a034ab596ad.js (733 KiB)[39m[22m
+
+[1m[33mWARNING[39m[22m in [1mentrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  browserMain (2 MiB)
+      422-95023db500b52612fc53.js
+      582-ce84da23e942cd3c2f9e.js
+      578-f571884b6a034ab596ad.js
+      595-01c60004084a6156a403.js
+      browserMain-b5cd51f4e525874b1628.js
+  browserAuth (818 KiB)
+      422-95023db500b52612fc53.js
+      248-612a7e20fc0c650d3f04.js
+      45-9cd21ebb01b770cd6e7d.js
+      595-01c60004084a6156a403.js
+      browserAuth-147312787299b7470f13.js
+  browserCommunity (1.22 MiB)
+      422-95023db500b52612fc53.js
+      582-ce84da23e942cd3c2f9e.js
+      248-612a7e20fc0c650d3f04.js
+      978-f88c0706fb84da7963ed.js
+      browserCommunity-95242802232c9aa449c5.js
+[39m[22m
+
+[1m[33mWARNING[39m[22m in [1mwebpack performance recommendations: 
+You can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.
+For more info visit https://webpack.js.org/guides/code-splitting/[39m[22m
+
+webpack 5.96.1 compiled with [1m[33m3 warnings[39m[22m in 81035 ms
