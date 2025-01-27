@@ -5,7 +5,7 @@ While it's user friendly, it certainly wasn't friendly to build and deploy.
 
 Pain and suffering. Much pain and suffering. 
 
-Eventually I managed to get this build, hopefully easy to deploy.
+Eventually I managed to get this build working, one which is hopefully, easy to deploy.
 
 ## Features
 - **Cross-Platform Compatibility:** Ensure accessibility across various devices and operating systems.
