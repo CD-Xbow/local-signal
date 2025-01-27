@@ -1,14 +1,17 @@
 # Local Signal
-This is a build of Signal, which is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use. 
+This is a build of Signal, which is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use. https://github.com/ryohey/signal
 
 While it's user friendly to use, it certainly wasn't user friendly to build and deploy. 
 
-Pain and suffering. Eventually I managed to get this build, hopefully easy to deploy, build done
+Pain and suffering. Much pain and suffering. 
+
+Eventually I managed to get this build, hopefully easy to deploy.
 
 ## Features
-Cross-Platform Compatibility: Ensure accessibility across various devices and operating systems.
-Simple User Interface: Focus on an intuitive, non-complicated user interface for ease of use.
-MIDI Compatibility: Support for MIDI format to facilitate a wide range of music production needs.
+**Cross-Platform Compatibility:** Ensure accessibility across various devices and operating systems.
+**Simple User Interface:** Focus on an intuitive, non-complicated user interface for ease of use.
+**MIDI Compatibility:** Support for MIDI format to facilitate a wide range of music production needs.
+**Easy to install:** I hope so.
 
 ## Setup Instructions
 
