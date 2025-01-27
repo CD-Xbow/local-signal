@@ -1,7 +1,7 @@
 # Local Signal
 This is a build of Signal, which is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use. See  https://github.com/ryohey/signal
 
-While it's user friendly to use, it certainly wasn't user friendly to build and deploy. 
+While it's user friendly, it certainly wasn't user friendly to build and deploy. 
 
 Pain and suffering. Much pain and suffering. 
 
